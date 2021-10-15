@@ -1,0 +1,8 @@
+.InputAreaStars {
+    margin-right: 20px;
+}
+.InputArea {
+    width: 600px;
+    display: flex;
+    justify-content: space-around;
+}
